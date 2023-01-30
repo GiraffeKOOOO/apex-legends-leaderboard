@@ -11,12 +11,12 @@ function Top6PlayersGrid(props) {
 	return (
 		<>
 			<div id="top6-container" className="grid grid-cols-3 mx-auto mt-[5px] max-w-[1600px] max-h-[700px] ">
-				<div id="first-player-grid" className="border-2 border-color-black mx-auto">
+				<div id="first-player-grid" className="mx-auto">
 					<div className="grid grid-rows-1 my-auto h-full">
 						<FirstPlayerBanner statTitle={props.statTitle} name={props.top6Players[0].playerName} value={props.statTitle === "Kills" ? props.top6Players[0].kills : props.top6Players[0].damageDealt} />
 					</div>
 				</div>
-				<div id="second-third-player-grid" className="border-2 border-color-black mx-auto">
+				<div id="second-third-player-grid" className="mx-auto">
 					<div className="grid grid-rows-2 my-auto h-full">
 						<div className="my-auto">
 							<SecondPlayerBanner statTitle={props.statTitle} name={props.top6Players[1].playerName} value={props.statTitle === "Kills" ? props.top6Players[1].kills : props.top6Players[1].damageDealt} />
@@ -26,7 +26,7 @@ function Top6PlayersGrid(props) {
 						</div>
 					</div>
 				</div>
-				<div id="fourth-fifth-sixth-player-grid" className="border-2 border-color-black mx-auto">
+				<div id="fourth-fifth-sixth-player-grid" className="mx-auto">
 					<div className="grid grid-rows-3 my-auto h-full">
 						<div className="my-auto">
 							<FourthPlayerBanner statTitle={props.statTitle} name={props.top6Players[3].playerName} value={props.statTitle === "Kills" ? props.top6Players[3].kills : props.top6Players[3].damageDealt} />
