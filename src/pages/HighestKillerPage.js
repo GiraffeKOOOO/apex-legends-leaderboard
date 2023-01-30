@@ -5,7 +5,7 @@ import Top6PlayersGrid from "../components/Top6PlayersGrid";
 import RemainingPlayers from "../components/RemainingPlayers";
 import dummyData from "../dummy-data.json";
 
-function HighestKiller() {
+function HighestKillerPage() {
 	const player1 = dummyData.matches[0].player_results[0];
 	const player2 = dummyData.matches[0].player_results[1];
 	const player3 = dummyData.matches[0].player_results[2];
@@ -32,4 +32,4 @@ function HighestKiller() {
 	);
 }
 
-export default HighestKiller;
+export default HighestKillerPage;

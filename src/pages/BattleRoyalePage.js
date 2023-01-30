@@ -1,9 +1,9 @@
 import "../App.css";
 import TitleBar from "../components/TitleBar";
 import NavbarComponent from "../components/NavbarComponent";
-import Top6PlayersGrid from "../components/Top6PlayersGrid";
+import dummyData from "../dummy-data.json";
 
-function AllPlayers() {
+function BattleRoyalePage() {
 	return (
 		<>
 			<TitleBar />
@@ -12,4 +12,4 @@ function AllPlayers() {
 	);
 }
 
-export default AllPlayers;
+export default BattleRoyalePage;
