@@ -1,0 +1,69 @@
+{
+	"matches": [
+		{
+			"match_start": 1674775090,
+			"player_results": [
+				{ "survivalTime": 1163, "characterName": "bloodhound", "kills": 3, "shots": 172, "teamPlacement": 1, "revivesGiven": 0, "respawnsGiven": 0, "assists": 0, "teamNum": 7, "hits": 28, "headshots": 7, "teamName": "Team 6", "hardware": "PC_STEAM", "knockdowns": 3, "damageDealt": 446, "nidHash": "6b598e89482412cb654e26ac8b82e211514fbe6626f78c46d95e1f9cf4907829abe30584fd8cbab78e90107b7ae56cfde4d7bc83ae6c53e5c8fa093299591e01", "playerName": "[WestLAN] GiraffeKOOOO" },
+				{ "survivalTime": 1163, "characterName": "octane", "kills": 1, "shots": 188, "teamPlacement": 2, "revivesGiven": 0, "respawnsGiven": 0, "assists": 0, "teamNum": 2, "hits": 8, "headshots": 1, "teamName": "Team 1", "hardware": "PC_STEAM", "knockdowns": 1, "damageDealt": 358, "nidHash": "1fa374cb5877acf873553351936ae11451d1eb0108d4fc09f22f644a302a755a352955c2267d2befaf6c9cbccef1f61f17e4476f4a1d83b02ced4ad4b8d02e28", "playerName": "Artorias" },
+				{ "survivalTime": 1000, "characterName": "fuse", "kills": 0, "shots": 14, "teamPlacement": 5, "revivesGiven": 0, "respawnsGiven": 0, "assists": 0, "teamNum": 3, "hits": 0, "knockdowns": 0, "headshots": 0, "teamName": "BEST TEAM", "nidHash": "0b22d0e2c79c99c39fd3df26e1e4728ea1cbe812f01e609ef6cb2301b29427a9bb363c36eedb311ade907c880c97941438fe7af854796d2c531da1ad6f77a325", "hardware": "PC_STEAM", "damageDealt": 0, "playerName": "Bolt VanDerHuge" },
+				{ "teamName": "Team 5", "characterName": "gibraltar", "headshots": 0, "shots": 19, "teamPlacement": 3, "revivesGiven": 0, "damageDealt": 34, "assists": 0, "teamNum": 6, "hits": 2, "survivalTime": 1129, "kills": 0, "hardware": "PC_STEAM", "nidHash": "7c16003b95af8184f55d431230c8623b6e87292066b8bf5532edaa61e0388ff81780eca58629fc1981bf01a651f0caba92137074c37766f33919193cefd587e4", "knockdowns": 0, "respawnsGiven": 0, "playerName": "Moogle" },
+				{ "survivalTime": 881, "characterName": "caustic", "kills": 0, "shots": 53, "teamPlacement": 6, "revivesGiven": 0, "damageDealt": 214, "assists": 0, "teamNum": 5, "hits": 15, "headshots": 1, "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 0, "teamName": "Matts Nose", "nidHash": "a6911cff3614c0be3e4105eb34be88447348cbd89901ef835b4d571366d6daced446f48c2feb19ec1f388130d315f0cd1155644b0bd02f3bcfc0c4ad4c16bf81", "playerName": "Akela" },
+				{ "survivalTime": 1006, "characterName": "wattson", "kills": 1, "shots": 95, "teamPlacement": 4, "revivesGiven": 0, "respawnsGiven": 0, "assists": 0, "teamNum": 4, "hits": 19, "headshots": 4, "teamName": "Team 3", "hardware": "PC_STEAM", "knockdowns": 1, "damageDealt": 294, "nidHash": "552fefce7d4162d189ba07492be41474f3bfb0b971eaf69abf6de0d49ad3a83e39cd9db8a1529f9abda9b1ce5c37c00aeeee44685b3c7ec01324dec846acb579", "playerName": "MadSkillzBruh" }
+			],
+			"mid": "[::ffff:185.225.208.30]:0:37315:1674774796",
+			"map_name": "mp_rr_desertlands_mu3",
+			"aim_assist_allowed": false
+		},
+		{
+			"match_start": 1674773641,
+			"player_results": [
+				{ "survivalTime": 1261, "characterName": "bloodhound", "kills": 1, "shots": 223, "teamPlacement": 1, "revivesGiven": 0, "respawnsGiven": 0, "assists": 0, "teamNum": 7, "hits": 36, "headshots": 4, "nidHash": "6b598e89482412cb654e26ac8b82e211514fbe6626f78c46d95e1f9cf4907829abe30584fd8cbab78e90107b7ae56cfde4d7bc83ae6c53e5c8fa093299591e01", "teamName": "Team 6", "knockdowns": 1, "hardware": "PC_STEAM", "damageDealt": 494, "playerName": "[WestLAN] GiraffeKOOOO" },
+				{ "teamName": "Team 1", "characterName": "octane", "headshots": 2, "shots": 33, "teamPlacement": 4, "revivesGiven": 0, "damageDealt": 298, "assists": 0, "teamNum": 2, "hits": 5, "kills": 1, "nidHash": "1fa374cb5877acf873553351936ae11451d1eb0108d4fc09f22f644a302a755a352955c2267d2befaf6c9cbccef1f61f17e4476f4a1d83b02ced4ad4b8d02e28", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 1, "survivalTime": 1130, "playerName": "Artorias" },
+				{ "survivalTime": 1250, "characterName": "fuse", "kills": 0, "shots": 40, "teamPlacement": 3, "revivesGiven": 0, "damageDealt": 671, "assists": 0, "teamNum": 3, "hits": 107, "teamName": "BEST TEAM", "nidHash": "0b22d0e2c79c99c39fd3df26e1e4728ea1cbe812f01e609ef6cb2301b29427a9bb363c36eedb311ade907c880c97941438fe7af854796d2c531da1ad6f77a325", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 0, "headshots": 7, "playerName": "Bolt VanDerHuge" },
+				{ "teamName": "Team 5", "characterName": "gibraltar", "headshots": 0, "shots": 49, "teamPlacement": 6, "revivesGiven": 0, "damageDealt": 165, "assists": 0, "teamNum": 6, "hits": 6, "kills": 0, "nidHash": "7c16003b95af8184f55d431230c8623b6e87292066b8bf5532edaa61e0388ff81780eca58629fc1981bf01a651f0caba92137074c37766f33919193cefd587e4", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 0, "survivalTime": 1006, "playerName": "Moogle" },
+				{ "teamName": "Matts Nose", "characterName": "mirage", "headshots": 0, "shots": 30, "teamPlacement": 5, "revivesGiven": 0, "damageDealt": 112, "assists": 0, "teamNum": 5, "hits": 3, "kills": 1, "nidHash": "a6911cff3614c0be3e4105eb34be88447348cbd89901ef835b4d571366d6daced446f48c2feb19ec1f388130d315f0cd1155644b0bd02f3bcfc0c4ad4c16bf81", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 1, "survivalTime": 1013, "playerName": "Akela" },
+				{ "teamName": "Team 3", "characterName": "wattson", "headshots": 5, "shots": 72, "teamPlacement": 2, "revivesGiven": 0, "damageDealt": 796, "assists": 0, "teamNum": 4, "hits": 51, "kills": 2, "nidHash": "552fefce7d4162d189ba07492be41474f3bfb0b971eaf69abf6de0d49ad3a83e39cd9db8a1529f9abda9b1ce5c37c00aeeee44685b3c7ec01324dec846acb579", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 2, "survivalTime": 1261, "playerName": "MadSkillzBruh" }
+			],
+			"mid": "[::ffff:92.204.197.179]:0:37615:1674773438",
+			"map_name": "mp_rr_desertlands_mu3",
+			"aim_assist_allowed": false
+		},
+		{ "match_start": 1674740450, "player_results": [{ "survivalTime": 117, "characterName": "lifeline", "kills": 0, "shots": 13, "teamPlacement": 0, "revivesGiven": 0, "respawnsGiven": 0, "assists": 0, "teamNum": 2, "hits": 0, "nidHash": "94789dc0a79521c88d9a257d3a8d7f9f2d25338ffc09dc32630d8d7fe691b2d1df2a1c6f8b971fe209f54419f94c7b5f910f18a8de4393de6970a790436fe097", "teamName": "Team 1", "knockdowns": 0, "damageDealt": 0, "hardware": "PS4", "headshots": 0, "playerName": "A_Humble_Pringle" }], "mid": "[::ffff:151.106.58.223]:0:37615:1674740150", "map_name": "mp_rr_desertlands_mu3", "aim_assist_allowed": false },
+		{
+			"match_start": 1674690245,
+			"player_results": [
+				{ "teamName": "Team 1", "characterName": "bloodhound", "headshots": 2, "shots": 209, "teamPlacement": 2, "revivesGiven": 0, "damageDealt": 450, "assists": 0, "teamNum": 2, "hits": 24, "kills": 1, "nidHash": "6b598e89482412cb654e26ac8b82e211514fbe6626f78c46d95e1f9cf4907829abe30584fd8cbab78e90107b7ae56cfde4d7bc83ae6c53e5c8fa093299591e01", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 1, "survivalTime": 1090, "playerName": "[WestLAN] GiraffeKOOOO" },
+				{ "teamName": "BEST TEAM", "characterName": "fuse", "kills": 0, "shots": 5, "teamPlacement": 3, "revivesGiven": 0, "damageDealt": 12, "assists": 0, "teamNum": 3, "hits": 4, "headshots": 0, "hardware": "PC_STEAM", "nidHash": "0b22d0e2c79c99c39fd3df26e1e4728ea1cbe812f01e609ef6cb2301b29427a9bb363c36eedb311ade907c880c97941438fe7af854796d2c531da1ad6f77a325", "knockdowns": 0, "respawnsGiven": 0, "survivalTime": 1077, "playerName": "Bolt VanDerHuge" },
+				{ "teamName": "Team 5", "characterName": "octane", "kills": 2, "shots": 184, "teamPlacement": 1, "revivesGiven": 0, "respawnsGiven": 0, "assists": 0, "teamNum": 6, "hits": 64, "survivalTime": 1090, "nidHash": "1fa374cb5877acf873553351936ae11451d1eb0108d4fc09f22f644a302a755a352955c2267d2befaf6c9cbccef1f61f17e4476f4a1d83b02ced4ad4b8d02e28", "headshots": 12, "hardware": "PC_STEAM", "knockdowns": 2, "damageDealt": 736, "playerName": "Artorias" },
+				{ "teamName": "Team 4", "characterName": "bloodhound", "headshots": 5, "shots": 129, "teamPlacement": 5, "revivesGiven": 0, "damageDealt": 423, "assists": 0, "teamNum": 5, "hits": 24, "kills": 0, "nidHash": "a6911cff3614c0be3e4105eb34be88447348cbd89901ef835b4d571366d6daced446f48c2feb19ec1f388130d315f0cd1155644b0bd02f3bcfc0c4ad4c16bf81", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 0, "survivalTime": 967, "playerName": "Akela" },
+				{ "teamName": "Team 3", "characterName": "mirage", "headshots": 5, "shots": 141, "teamPlacement": 4, "revivesGiven": 0, "damageDealt": 684, "assists": 0, "teamNum": 4, "hits": 19, "kills": 1, "nidHash": "552fefce7d4162d189ba07492be41474f3bfb0b971eaf69abf6de0d49ad3a83e39cd9db8a1529f9abda9b1ce5c37c00aeeee44685b3c7ec01324dec846acb579", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 1, "survivalTime": 1005, "playerName": "MadSkillzBruh" }
+			],
+			"mid": "[::ffff:46.28.51.56]:0:37415:1674690113",
+			"map_name": "mp_rr_desertlands_mu3",
+			"aim_assist_allowed": false
+		},
+		{
+			"match_start": 1674689044,
+			"player_results": [
+				{ "teamName": "Team 1", "characterName": "bloodhound", "headshots": 0, "shots": 20, "teamPlacement": 3, "revivesGiven": 0, "damageDealt": 98, "assists": 0, "teamNum": 2, "hits": 7, "kills": 0, "nidHash": "6b598e89482412cb654e26ac8b82e211514fbe6626f78c46d95e1f9cf4907829abe30584fd8cbab78e90107b7ae56cfde4d7bc83ae6c53e5c8fa093299591e01", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 0, "survivalTime": 824, "playerName": "[WestLAN] GiraffeKOOOO" },
+				{ "teamName": "BEST TEAM", "characterName": "fuse", "headshots": 4, "shots": 46, "teamPlacement": 2, "revivesGiven": 0, "damageDealt": 315, "assists": 0, "teamNum": 3, "hits": 13, "kills": 1, "nidHash": "0b22d0e2c79c99c39fd3df26e1e4728ea1cbe812f01e609ef6cb2301b29427a9bb363c36eedb311ade907c880c97941438fe7af854796d2c531da1ad6f77a325", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 1, "survivalTime": 1043, "playerName": "Bolt VanDerHuge" },
+				{ "teamName": "Team 5", "characterName": "octane", "headshots": 6, "shots": 98, "teamPlacement": 1, "revivesGiven": 0, "damageDealt": 1021, "assists": 0, "teamNum": 6, "hits": 31, "kills": 3, "nidHash": "1fa374cb5877acf873553351936ae11451d1eb0108d4fc09f22f644a302a755a352955c2267d2befaf6c9cbccef1f61f17e4476f4a1d83b02ced4ad4b8d02e28", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 3, "survivalTime": 1043, "playerName": "Artorias" },
+				{ "teamName": "Team 4", "characterName": "bloodhound", "headshots": 1, "shots": 19, "teamPlacement": 4, "revivesGiven": 0, "damageDealt": 117, "assists": 0, "teamNum": 5, "hits": 8, "kills": 0, "nidHash": "a6911cff3614c0be3e4105eb34be88447348cbd89901ef835b4d571366d6daced446f48c2feb19ec1f388130d315f0cd1155644b0bd02f3bcfc0c4ad4c16bf81", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 0, "survivalTime": 478, "playerName": "Akela" },
+				{ "teamName": "Team 3", "characterName": "seer", "headshots": 1, "shots": 4, "teamPlacement": 5, "revivesGiven": 0, "damageDealt": 20, "assists": 0, "teamNum": 4, "hits": 2, "kills": 0, "knockdowns": 0, "hardware": "PC_STEAM", "nidHash": "552fefce7d4162d189ba07492be41474f3bfb0b971eaf69abf6de0d49ad3a83e39cd9db8a1529f9abda9b1ce5c37c00aeeee44685b3c7ec01324dec846acb579", "respawnsGiven": 0, "survivalTime": 383, "playerName": "MadSkillzBruh" }
+			],
+			"mid": "[::ffff:185.225.209.45]:0:45015:1674688970",
+			"map_name": "mp_rr_desertlands_mu3",
+			"aim_assist_allowed": false
+		},
+		{
+			"match_start": 1674688529,
+			"player_results": [
+				{ "teamName": "Team 2", "characterName": "fuse", "headshots": 0, "shots": 9, "teamPlacement": 2, "revivesGiven": 0, "damageDealt": 84, "assists": 0, "teamNum": 3, "hits": 2, "kills": 0, "nidHash": "0b22d0e2c79c99c39fd3df26e1e4728ea1cbe812f01e609ef6cb2301b29427a9bb363c36eedb311ade907c880c97941438fe7af854796d2c531da1ad6f77a325", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 0, "survivalTime": 223, "playerName": "Bolt VanDerHuge" },
+				{ "teamName": "Team 1", "characterName": "bloodhound", "headshots": 1, "shots": 45, "teamPlacement": 1, "revivesGiven": 0, "damageDealt": 142, "assists": 0, "teamNum": 2, "hits": 11, "kills": 1, "nidHash": "6b598e89482412cb654e26ac8b82e211514fbe6626f78c46d95e1f9cf4907829abe30584fd8cbab78e90107b7ae56cfde4d7bc83ae6c53e5c8fa093299591e01", "respawnsGiven": 0, "hardware": "PC_STEAM", "knockdowns": 1, "survivalTime": 223, "playerName": "[WestLAN] GiraffeKOOOO" }
+			],
+			"mid": "[::ffff:109.123.102.97]:0:37315:1674688340",
+			"map_name": "mp_rr_desertlands_mu3",
+			"aim_assist_allowed": false
+		}
+	]
+}

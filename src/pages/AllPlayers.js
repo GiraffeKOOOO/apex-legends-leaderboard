@@ -8,7 +8,6 @@ function AllPlayers() {
 		<>
 			<TitleBar />
 			<NavbarComponent />
-			<Top6PlayersGrid />
 		</>
 	);
 }
